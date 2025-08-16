@@ -2,7 +2,9 @@
 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="600">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&height=60&lines=NEURAL+NETWORK+ACTIVATED+%E2%9A%A1;FULL+STACK+DEVELOPER+%F0%9F%92%BB;QUANTUM+CODE+ARCHITECT+%F0%9F%8C%8C;SOFTWARE+ENGINEER+%F0%9F%9A%80;AI+%26+WEB3+PIONEER+%F0%9F%A4%96;BACKEND+%26+FRONTEND+EXPERT+%E2%9A%A1)](https://git.io/typing-svg)
+
 </div>
 
 ---
