@@ -4,12 +4,14 @@
 
 # **LAKRUWAN SHRAKA**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%7C+AI+Engineer;Spring+Boot+%E2%9A%A1+Next.js+Expert;Building+The+Future+of+Web" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%7C+AI+Engineer;Spring+Boot+%E2%9A%A1+Next.js+Expert;AI+Model+Training+Specialist;Building+The+Future+of+Web" alt="Typing SVG" />
 
+</br>
 <p>
   <img src="https://img.shields.io/badge/🚀_Mission-Building_Next_Gen_Apps-667eea?style=for-the-badge" />
   <img src="https://img.shields.io/badge/⚡_Focus-Spring_Boot_+_Next.js-4facfe?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎯_Status-Open_to_Collaborate-f093fb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖_Expertise-AI_Model_Training-f093fb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎯_Status-Open_to_Collaborate-00f2fe?style=for-the-badge" />
 </p>
 
 </div>
@@ -24,7 +26,7 @@
 
 <table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### <img src="https://skillicons.dev/icons?i=spring" width="30"/> **Backend Mastery - Spring Boot**
 
@@ -54,7 +56,7 @@ DevOps: Docker | Kubernetes | CI/CD
 - Event-Driven Systems
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### <img src="https://skillicons.dev/icons?i=nextjs" width="30"/> **Frontend Excellence - Next.js**
 
@@ -81,6 +83,35 @@ Performance: SSR | ISR | Edge Functions
 - Progressive Web Apps
 - Real-time Dashboards
 - E-commerce Platforms
+
+</td>
+<td width="33%" valign="top">
+
+### <img src="https://skillicons.dev/icons?i=tensorflow" width="30"/> **AI/ML Model Training**
+
+```yaml
+Frameworks: TensorFlow | PyTorch
+Models: LLMs | CNNs | RNNs | Transformers
+Tools: Keras | Scikit-learn | Hugging Face
+MLOps: MLflow | Weights & Biases
+Deployment: TensorFlow Serving | ONNX
+Data: Pandas | NumPy | OpenCV
+```
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+**🤖 Training:**
+- Large Language Models
+- Computer Vision Models
+- NLP Models
+- Custom Neural Networks
+- Model Fine-tuning
 
 </td>
 </tr>
@@ -146,11 +177,19 @@ Performance: SSR | ISR | Edge Functions
 <div align="center">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Langchain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<br/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
 </div>
 </details>
 
@@ -185,20 +224,6 @@ Performance: SSR | ISR | Edge Functions
 
 <div align="center">
 
-## 📊 **GITHUB STATISTICS**
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=4FACFE&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=667EEA&fire=4FACFE&currStreakLabel=667EEA" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=667EEA&line=4FACFE&point=FFFFFF" />
-
-</div>
-
----
-
-<div align="center">
-
 ## 🎯 **CURRENT MISSIONS**
 
 <table>
@@ -210,6 +235,7 @@ Performance: SSR | ISR | Edge Functions
 ⚡ Spring Boot APIs
 🚀 Next.js 14 Apps
 🤖 AI-Powered Tools
+🧠 Custom ML Models
 🌐 Web3 DApps
 💎 SaaS Platforms
 ```
@@ -219,11 +245,12 @@ Performance: SSR | ISR | Edge Functions
 
 ### 📚 **LEARNING**
 ```
-🧠 System Design
+🧠 Advanced System Design
 🔐 Cybersecurity
 ☁️ AWS Solutions
 🎨 UI/UX Design
 ⚛️ Quantum Computing
+🤖 Deep Learning Research
 ```
 
 </td>
@@ -235,7 +262,8 @@ Performance: SSR | ISR | Edge Functions
 🚀 Startup Projects
 🎓 Mentoring Devs
 🌍 Tech Community
-🔬 Research Papers
+🔬 AI Research Papers
+🏆 Hackathons
 ```
 
 </td>
@@ -248,11 +276,48 @@ Performance: SSR | ISR | Edge Functions
 
 <div align="center">
 
-## 🏆 **GITHUB TROPHIES**
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
+## 🚀 **FEATURED PROJECTS**
 
 </div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌟 **AI & Machine Learning**
+
+- 🤖 **Custom LLM Fine-tuning Pipeline**
+  - Fine-tuned GPT models for domain-specific tasks
+  - PyTorch + Hugging Face + PEFT/LoRA
+  
+- 🎯 **Computer Vision Platform**
+  - Real-time object detection & segmentation
+  - YOLOv8 + OpenCV + TensorFlow
+
+- 📊 **NLP Sentiment Analysis Engine**
+  - Multi-language sentiment classification
+  - BERT + Transformers + FastAPI
+
+</td>
+<td width="50%">
+
+### 💻 **Full Stack Applications**
+
+- ⚡ **Microservices E-commerce Platform**
+  - Spring Boot + Next.js + PostgreSQL
+  - Kafka + Redis + Docker + K8s
+  
+- 🎨 **Real-time Collaboration Tool**
+  - Next.js 14 + WebSockets + Prisma
+  - Real-time editing with CRDT
+
+- 🌐 **Web3 NFT Marketplace**
+  - Next.js + Solidity + IPFS
+  - Smart contracts + Polygon integration
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -276,6 +341,9 @@ Performance: SSR | ISR | Edge Functions
   <a href="https://dev.to/YOUR_PROFILE">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
+  <a href="https://medium.com/@YOUR_PROFILE">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
 </p>
 
 </div>
@@ -296,7 +364,9 @@ Performance: SSR | ISR | Edge Functions
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-### 🚀 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### 🚀 *"Any sufficiently advanced technology is indistinguishable from magic."* – Arthur C. Clarke
+
+### 💡 *"The best way to predict the future is to invent it."* – Alan Kay
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=667eea&style=for-the-badge" />
 
