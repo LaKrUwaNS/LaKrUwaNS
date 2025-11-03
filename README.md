@@ -4,13 +4,13 @@
 
 # **LAKRUWAN SHRAKA**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%7C+AI+Engineer;Spring+Boot+%E2%9A%A1+Next.js+Expert;AI+Model+Training+Specialist;Building+The+Future+of+Web" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Backend+Developer+%7C+AI+Engineer;Spring+Boot+%E2%9A%A1+Microservices+Expert;AI+Model+Training+Specialist;Building+Scalable+Backend+Systems" alt="Typing SVG" />
 
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/🚀_Mission-Building_Next_Gen_Apps-667eea?style=for-the-badge&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/⚡_Focus-Spring_Boot_+_Next.js-4facfe?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/🚀_Mission-Building_Robust_Backend_Systems-667eea?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/⚡_Focus-Spring_Boot_+_Microservices-4facfe?style=for-the-badge&labelColor=1a1b27" />
   <img src="https://img.shields.io/badge/🤖_Expertise-AI_Model_Training-f093fb?style=for-the-badge&labelColor=1a1b27" />
   <img src="https://img.shields.io/badge/🎯_Status-Open_to_Collaborate-00f2fe?style=for-the-badge&labelColor=1a1b27" />
 </p>
@@ -44,6 +44,7 @@ Database: JPA/Hibernate | PostgreSQL
 Messaging: RabbitMQ | Kafka
 Testing: JUnit 5 | Mockito
 DevOps: Docker | Kubernetes
+Cloud: AWS | GCP | Azure
 ```
 
 <br/>
@@ -53,6 +54,8 @@ DevOps: Docker | Kubernetes
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 
 <br/><br/>
 
@@ -64,30 +67,36 @@ DevOps: Docker | Kubernetes
 
 🌊 Real-time WebSocket Apps
 
-🔐 OAuth2 Authentication
+🔐 OAuth2 & JWT Authentication
 
 📡 Event-Driven Systems
+
+⚡ High-Performance APIs
+
+🛡️ Secure Backend Solutions
 
 </td>
 <td width="33%" align="center" valign="top">
 
-### <img src="https://skillicons.dev/icons?i=nextjs" width="35"/> **Frontend Excellence**
-### Next.js 14 Ecosystem
+### <img src="https://skillicons.dev/icons?i=nextjs" width="35"/> **Next.js Expert**
+### Modern Web Stack
 
 <br/>
 
 ```yaml
 Framework: Next.js 14+ App Router ⚡
-UI/UX: React 18 | TypeScript
+Language: TypeScript
 Styling: Tailwind CSS | shadcn/ui
 State: Zustand | React Query
 Forms: React Hook Form | Zod
-Performance: SSR | ISR | Edge
+Backend: API Routes | Server Actions
+Integration: REST | GraphQL
 ```
 
 <br/>
 
 <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
@@ -95,17 +104,21 @@ Performance: SSR | ISR | Edge
 
 <br/><br/>
 
-**🚀 Creating:**
+**🚀 Expertise:**
 
-⚡ Blazing Fast Web Apps
+⚡ Server Components & SSR
 
-🧩 Server Components
+🔌 API Integration
 
-📱 Progressive Web Apps
+📊 Admin Dashboards
 
-📊 Real-time Dashboards
+🎨 Modern UI/UX
 
-🛒 E-commerce Platforms
+🔄 Real-time Features
+
+📱 Responsive Design
+
+🛠️ Full-stack Capabilities
 
 </td>
 <td width="33%" align="center" valign="top">
@@ -122,6 +135,7 @@ Tools: Keras | Hugging Face
 MLOps: MLflow | W&B
 Deploy: TF Serving | ONNX
 Data: Pandas | NumPy | OpenCV
+Integration: REST APIs | gRPC
 ```
 
 <br/>
@@ -131,6 +145,8 @@ Data: Pandas | NumPy | OpenCV
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
 
 <br/><br/>
 
@@ -145,6 +161,10 @@ Data: Pandas | NumPy | OpenCV
 🎯 Custom Neural Networks
 
 ⚙️ Model Fine-tuning
+
+🚀 Model Deployment & Serving
+
+🔌 API Integration
 
 </td>
 </tr>
@@ -165,45 +185,37 @@ Data: Pandas | NumPy | OpenCV
 </div>
 
 <details open>
-<summary><b>💎 Core Programming Languages</b></summary>
+<summary><b>⚡ Frontend Skills</b></summary>
 <br/>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,ts,js,python,cpp,go,rust,dart&perline=8&theme=dark" width="500" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&perline=8&theme=dark" width="450" />
 <br/><br/>
-<img src="https://img.shields.io/badge/Java_17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript_5-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python_3.11-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++_20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Go_1.21-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
+<img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
 </div>
 </details>
 
 <details open>
-<summary><b>⚡ Frontend Development</b></summary>
+<summary><b>💎 Core Programming Languages</b></summary>
 <br/>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,react,vue,angular,svelte,astro,remix,vite&perline=8&theme=dark" width="500" />
+<img src="https://skillicons.dev/icons?i=java,python,go,cpp,rust,ts,js,dart&perline=8&theme=dark" width="500" />
 <br/><br/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
-<img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
-<img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white" />
+<img src="https://img.shields.io/badge/Java_17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python_3.11-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Go_1.21-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/C++_20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript_5-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </div>
 </details>
 
@@ -215,20 +227,23 @@ Data: Pandas | NumPy | OpenCV
 <br/><br/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+<br/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-<br/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<br/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" />
 <br/>
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-<img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" />
-<img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" />
 <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+<img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" />
 </div>
 </details>
 
@@ -252,6 +267,7 @@ Data: Pandas | NumPy | OpenCV
 <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" />
 <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
 <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </div>
 </details>
 
@@ -296,16 +312,16 @@ Data: Pandas | NumPy | OpenCV
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
 <br/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
-<br/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
 </div>
 </details>
 
@@ -338,3 +354,43 @@ Data: Pandas | NumPy | OpenCV
 
 <div align="center">
 
+## 💼 **WHAT I BUILD**
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🔧 Backend Systems
+- **Microservices Architecture** using Spring Boot & Spring Cloud
+- **RESTful & GraphQL APIs** with comprehensive documentation
+- **Real-time Systems** with WebSockets & Server-Sent Events
+- **Event-Driven Architecture** using Kafka & RabbitMQ
+- **Authentication & Authorization** with JWT & OAuth2
+- **Database Design** with optimization & indexing strategies
+- **Caching Strategies** using Redis & distributed caching
+- **API Rate Limiting** & throttling mechanisms
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI/ML Systems
+- **LLM Integration** & fine-tuning for custom applications
+- **Computer Vision** models for image processing
+- **NLP Models** for text analysis & generation
+- **Model Training Pipelines** with MLflow & W&B
+- **AI Model Deployment** via REST APIs & gRPC
+- **Model Optimization** & quantization for production
+- **Data Preprocessing** pipelines with Pandas & NumPy
+- **MLOps Workflows** for continuous model deployment
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
