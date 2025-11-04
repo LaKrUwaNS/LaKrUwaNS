@@ -79,13 +79,6 @@
 
 ---
 
-## 📊 **GITHUB STATS**
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&icon_color=667eea&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=1a1b27&stroke=667eea&ring=667eea&fire=f093fb&currStreakLabel=667eea" width="49%" />
-
----
-
 ## 🤝 **CONNECT**
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
