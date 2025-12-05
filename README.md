@@ -77,8 +77,6 @@
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,githubactions,git,linux&theme=dark" />
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
 
----
-
 ## 🤝 **CONNECT**
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
