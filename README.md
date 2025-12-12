@@ -27,63 +27,6 @@
 
 ---
 
-## 🎯 **Core Expertise**
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25"/> **Spring Boot Ecosystem**
-
-```yaml
-🏗️  Microservices Architecture
-🔐  Spring Security & OAuth2
-🌐  RESTful & GraphQL APIs
-💾  JPA/Hibernate Mastery
-📨  Event-Driven (Kafka/RabbitMQ)
-🐳  Containerization & Orchestration
-⚡  High-Performance APIs
-🧪  TDD with JUnit & Mockito
-```
-
-</td>
-<td width="33%" align="center">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="25"/> **AI/ML Engineering**
-
-```yaml
-🧠  LLM Fine-tuning & RAG
-👁️  Computer Vision (YOLOv8, CNN)
-💬  NLP & Transformers (BERT, GPT)
-🎯  TensorFlow & PyTorch
-🚀  Model Deployment (FastAPI)
-📊  MLOps & Experiment Tracking
-🔬  Feature Engineering
-🎨  Generative AI Applications
-```
-
-</td>
-<td width="33%" align="center">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="25"/> **Next.js & Modern Web**
-
-```yaml
-⚛️  React 18+ & Server Components
-🎨  TypeScript + Tailwind CSS
-🔄  Server Actions & API Routes
-📡  GraphQL & tRPC Integration
-🎭  State Management (Zustand, Redux)
-🎪  Animations (Framer Motion)
-🧩  Component Libraries (shadcn/ui)
-♿  Accessibility & Performance
-```
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🛠️ **Technology Arsenal**
 
 <div align="center">
@@ -97,10 +40,29 @@
 <p>
   <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,graphql,nestjs,fastapi,flask&theme=dark&perline=8" />
 </p>
+<p>
+  <img src="https://img.shields.io/badge/Microservices-667EEA?style=for-the-badge&logo=microgenetics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth2-3C873A?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPA_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mockito-78C257?style=for-the-badge&logo=&logoColor=white" />
+</p>
 
 ### **Frontend & Mobile**
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,vue,angular,typescript,tailwind,materialui&theme=dark&perline=8" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Server_Components-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Server_Actions-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
 </p>
 
 ### **AI/ML & Data Science**
@@ -110,10 +72,17 @@
   <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+  <img src="https://img.shields.io/badge/BERT-FFA500?style=for-the-badge&logo=&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+<p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Langchain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Fine--tuning-FF6B6B?style=for-the-badge&logo=&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-4ECDC4?style=for-the-badge&logo=&logoColor=white" />
 </p>
 
 ### **Databases & ORMs**
@@ -135,35 +104,6 @@
 </p>
 
 </div>
-
----
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
-</div>
-
----
-
-## 🚀 **Featured Projects**
-
-<div align="center">
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/YOUR_USERNAME/PROJECT_NAME_1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/YOUR_USERNAME/PROJECT_NAME_2)
-
-</div>
-
 ---
 
 ## 💡 **What I'm Currently Working On**
@@ -221,11 +161,6 @@ const currentFocus = {
 ---
 
 <div align="center">
-
-### 🐍 **Contribution Snake**
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 **Made with ❤️ by Lakruwan Shraka**
 
